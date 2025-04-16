@@ -156,6 +156,7 @@ INSERT INTO book (title, publisher_id, language_id, price) VALUES
 ('The River and the Source', 2, 1, 870.00),
 ('Weep Not, Child', 1, 1, 790.00),
 ('Petals of Blood', 1, 1, 880.00),
+('Kigogo', 1, 1, 880.00),
 ('A Grain of Wheat', 1, 1, 850.00),
 ('Unbowed', 2, 1, 990.00),
 ('How to Write About Africa', 2, 1, 930.00),
